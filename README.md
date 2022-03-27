@@ -13,7 +13,7 @@ Primeiramente, se dirija ao diretório [**arquivos-iniciais**](arquivos-iniciais
 
 ## Instruções para Desenvolvimento
 
-Utlizando como base o arquivo [**conteudo.txt**](arquivos-iniciais/conteudo.txt), monte a estrutura de uma página web visando chegar no seguinte [**resultado**](https://imgur.com/dy0lXVn).
+Utlizando como base o arquivo [**conteudo.txt**](https://github.com/petccufpb/Code_Together_Projeto01/blob/main/arquivos-iniciais/arquivos-iniciais/conteudo.txt), monte a estrutura de uma página web visando chegar no seguinte [**resultado**](https://imgur.com/dy0lXVn).
 
 ## Critérios de avaliação
 
