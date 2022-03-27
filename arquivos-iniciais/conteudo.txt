@@ -1,0 +1,38 @@
+[TITULO]
+
+Pomo Bot - Pomodoro no Discord
+
+[CABEÇALHO]
+
+Imagem (Logo)
+
+Discord
+Tutorial
+Open Source
+Comandos
+
+[CONTEUDO]
+
+[CONTEUDO PRINCIPAL]
+
+Pomo Bot
+
+Estude com pomodoro no Discord!
+
+Botão ("Me adicione!")
+
+Imagem (Mascote)
+
+[CONTEUDO SECUNDARIO]
+
+O que ele faz por você?
+
+1. Permite que você defina os intervalos de cada sessão de estudo
+
+2. Possui um sistema de objetivos diários, semanais e de longo prazo
+
+3. Permite que você organize as atividades de lazer que serão realizadas entre os intervalos
+
+[RODAPÉ]
+
+Imagem (Rodapé)
