@@ -9,7 +9,7 @@ desse projeto é implementar o conteúdo do site utilizando os fundamentos da li
 
 ## Instruções para Instalação
 
-Primeiramente, se dirija ao diretório [**arquivos-iniciais**](arquivos-iniciais) e faça o download dos arquivos no formato **ZIP** através do botão **Code**. Posteriormente, descompacte o arquivo e abra a pasta em um editor de texto de preferência.
+Primeiramente, faça o download dos arquivos no formato **ZIP** através do botão **Code**. Posteriormente, descompacte o arquivo e abra a pasta em um editor de texto de preferência. Os arquivos necessários estão no diretório [**arquivos-iniciais**](arquivos-iniciais).
 
 ## Instruções para Desenvolvimento
 
