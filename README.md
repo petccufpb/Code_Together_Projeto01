@@ -26,4 +26,4 @@ O documento HTML deve conter:
 
 ## Entrega
 
-Os arquivos devem ser compactados e enviados para o e-mail petcc@ci.ufpb.br até às 23:59 horas do dia 03/04/2022.
+Os arquivos devem ser compactados e enviados para o e-mail codetogether.petccufpb@gmail.com até às 23:59 horas do dia 03/04/2022.
