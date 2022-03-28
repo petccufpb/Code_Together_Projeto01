@@ -13,7 +13,7 @@ Primeiramente, faça o download dos arquivos no formato **ZIP** através do bot�
 
 ## Instruções para Desenvolvimento
 
-Utlizando como base o arquivo [**conteudo.txt**](https://github.com/petccufpb/Code_Together_Projeto01/blob/main/arquivos-iniciais/arquivos-iniciais/conteudo.txt), monte a estrutura de uma página web visando chegar no seguinte [**resultado**](https://imgur.com/dy0lXVn).
+Utlizando como base o arquivo [**conteudo.txt**](https://github.com/petccufpb/Code_Together_Projeto01/blob/main/arquivos-iniciais/conteudo.txt), monte a estrutura de uma página web visando chegar no seguinte [**resultado**](https://imgur.com/dy0lXVn).
 
 ## Critérios de avaliação
 
